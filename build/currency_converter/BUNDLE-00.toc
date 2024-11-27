@@ -1,0 +1,3 @@
+([('currency_converter',
+   '/Users/brandonnolan/Documents/College/fall2024/CS254/project/dist/currency_converter',
+   'EXECUTABLE')],)
